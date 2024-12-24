@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Intermediete\Intermediete\Intermediete\bin\Debug\Intermediete.exe.config
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Intermediete\Intermediete\Intermediete\bin\Debug\Intermediete.exe
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Intermediete\Intermediete\Intermediete\bin\Debug\Intermediete.pdb
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Intermediete\Intermediete\Intermediete\obj\Debug\Intermediete.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Intermediete\Intermediete\Intermediete\obj\Debug\Intermediete.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Intermediete\Intermediete\Intermediete\obj\Debug\Intermediete.exe
+C:\Users\ACER\OneDrive\Documents\enigmacamp\enigma-dotnet\Intermediete\Intermediete\Intermediete\obj\Debug\Intermediete.pdb
